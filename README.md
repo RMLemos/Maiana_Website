@@ -1,4 +1,4 @@
- ![Morse Code Translator Banner Image](assets/img/Gibhub_header.png)
+ ![Morse Code Translator Banner Image](assets/img/Github_header.png)
 <h2 align='center'>Morse Code Translator</h2>
 <h2 align='center'>Maiana Website</h2>
  Website for the brand Maiana
