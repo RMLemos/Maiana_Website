@@ -9,7 +9,7 @@ This website was created for the Maiana brand. This brand was developed as part 
 
 ### What's included
 
-Within the download of this repository you'll find the following directories and files:
+Within the download of this repository, you'll find the following directories and files:
 
 ```
 Maiana_Website/
