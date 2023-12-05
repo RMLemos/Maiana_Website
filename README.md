@@ -15,7 +15,7 @@ Within the download of this repository, you'll find the following directories an
 Maiana_Website/
 ├── assets/
 |   ├── css/
-|   |   ├── style.css
+|   |   └── style.css
 |   └── img/
 |
 └── index.html
