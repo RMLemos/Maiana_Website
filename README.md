@@ -3,6 +3,8 @@
  
 This website was created for the Maiana brand. This brand was developed as part of my master's thesis in Entrepreneurship and Business Creation.
 
+This website was written following course project "Landing page" of the course "Curso de Python 3 do básico ao avançado - com projetos reais".
+
 ### Link
 
 + [Maiana Website](https://maiana.netlify.app/)
