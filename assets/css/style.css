@@ -232,7 +232,7 @@ p{
 .gallery-img {
     width: 100%;
     max-width: 36rem;
-    max-height: 36rem;
+    max-height: 33rem;
     overflow: hidden;
 }
 
